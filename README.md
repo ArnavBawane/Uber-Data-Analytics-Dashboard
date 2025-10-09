@@ -16,15 +16,14 @@ This interactive dashboard provides insights into various aspects of Uber's ride
 
 ## ❓ Power BI Questions Solved
 
-This comprehensive dashboard is organized into 5 strategic view segments, each addressing specific business analytics questions:
+This comprehensive dashboard is organized into 4 strategic view segments, each addressing specific business analytics questions:
 
 ### 1. 📊 overview Performance
 - **Ride Volume Over Time** - Time-series chart tracking daily/weekly ride patterns to identify seasonal trends and demand fluctuations
 - **Booking Status Breakdown** - Pie/doughnut chart displaying proportions of completed, cancelled by customer, cancelled by driver, and other booking statuses
 
 ### 2. 🚗 Vehicle Type Analysis View  
-- **Top 5 Vehicle Types by Ride Distance** - Table chart ranking vehicle types (Go Mini, Go Sedan, Auto, eBike/Bike, UberXL, Premier Sedan) based on total distance covered
-
+- ** booking by vehicle catagory** - bar chart tracking total booking by v
 ### 3. 💰 Revenue Analytics View
 - **Revenue by Payment Method** - Stacked bar chart breaking down revenue streams across payment channels (UPI, Cash, Credit Cards, Uber Wallet, Debit Card)
 - **Top 5 Customers by Total Booking Value** - Leaderboard visualization identifying high-value customers and their spending patterns
